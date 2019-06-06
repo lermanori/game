@@ -34,7 +34,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 600).center();
+  createCanvas(750, 600).center();
   reset();
 }
 
